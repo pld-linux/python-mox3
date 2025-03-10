@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Szkielet obiektów atrap dla Pythona 2/3
 Name:		python-mox3
 # keep 0.x here for python2 support
 Version:	0.28.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/mox3/
